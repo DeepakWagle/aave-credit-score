@@ -2,8 +2,6 @@
 
 This project is a machine learning-based solution for assigning **credit scores (0–1000)** to wallets interacting with the **Aave V2 DeFi protocol**. It analyzes historical wallet transactions such as deposits, borrows, repayments, and liquidations to quantify wallet reliability.
 
-> Built for the [HackerEarth Aave V2 Credit Scoring Challenge](https://foursquare.hackerearth.com/).
-
 ---
 
 ## 🚀 Features
@@ -40,6 +38,13 @@ aave-credit-score/
 ├── analysis.md                              # Score insights and distribution summary
 ├── README.md
 ```
+
+## 📥 Data Source
+
+The dataset `user-wallet-transactions.json` (~87MB) used in this project is provided via the official challenge:
+
+👉 [Download JSON from Google Drive](https://drive.google.com/file/d/1ISFbAXxadMrt7Zl96rmzzZmEKZnyW7FS/view?usp=sharing)
+
 
 ##⚙️ Installation
 
