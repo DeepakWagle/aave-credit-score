@@ -49,7 +49,7 @@ The dataset `user-wallet-transactions.json` (~87MB) used in this project is prov
 ##⚙️ Installation
 
 # 1. Clone the repository
-git clone https://github.com/your-username/aave-credit-score.git
+git clone https://github.com/DeepakWagle/aave-credit-score.git
 cd aave-credit-score
 
 # 2. Create a virtual environment
